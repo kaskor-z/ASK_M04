@@ -1,5 +1,7 @@
 # ASK_M04
 Модуль №4. Модули и пакеты.
 
-Lessen 01 - Домашняя работа по уроку "Модули и пакеты" (файлы: main.py, fake_math.py, true_math.py).
+Lessen 01 - Домашняя работа по уроку "Модули и пакеты" (файлы: main.py, fake_math.py, true_math.py);
+
+Lesson 02 - Домашнее задание по уроку "Пространство имен"(файлы: ASK_M04_Less_02.pyб, ASK_M04_Less_02_app.py).
 
